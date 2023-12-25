@@ -2,7 +2,7 @@
 
 Simple web app for documenting books that have been read and unread.
 
-![](Screenshot/Annotation2023-12-25184730.png)
+![](Screenshot/Annotation 2023-12-25 184730.png)
 
 ## Demo
 
