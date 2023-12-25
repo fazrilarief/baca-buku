@@ -1,6 +1,6 @@
 # Baca Buku
 
-Simple web app for documenting books that have been read and unread.
+Simple web app for documenting books that have been read and unread [Baca Buku](https://fazrilarief.github.io/baca-buku/).
 
 ![](Screenshot/preview.png)
 
