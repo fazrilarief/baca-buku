@@ -17,7 +17,7 @@ Demo Live : [Baca Buku](https://fazrilarief.github.io/baca-buku/)
 
 ## Getting Started
 
-To get started with Kerjain.com, follow these steps:
+To get started with Baca Buku web app, follow these steps:
 
 1. Clone the repository: `https://fazrilarief.github.io/baca-buku/`
 2. Install dependencies: `npm install`
